@@ -2,6 +2,7 @@
 - 👀 I’m interested in C#
 - 🌱 I’m currently learning C#
 - 📫 How to reach me nasikordov@gmail.com
+- ** Started programming more seriously in September of 2021!
 
 <!---
 kordiP/kordiP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
