@@ -1,4 +1,4 @@
-#- 👋 Hi, I’m @kordiP
+- 👋 Hi, I’m @kordiP
 - 👀 I’m interested in C#
 - 🌱 I’m currently learning C#'s Algorithms and Data Structures.
 - 📫 How to reach me via:
