@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C#'s Algorithms and Data Structures.
 - 📫 How to reach me via:
 - 📧 email: nasikordov@gmail.com
--- 📸 instagram: kordi.p_
+- 📸 instagram: kordi.p_
 - 🖥️ Started programming significantly more in September of 2021! 🖥️
 
 <!---
