@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kordiP
 - 👀 I’m interested in C#
-- 🌱 I’m currently learning C#'s Algorithms and Data Structures.
+- 🌱 I’m currently learning C#'s Algorithms.
 - 📫 How to reach me via:
 - 📧 email: nasikordov@gmail.com
 - 📸 instagram: kordi.p_
