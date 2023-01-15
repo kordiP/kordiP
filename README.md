@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kordiP
 - 👀 I’m interested in C#
-- 🌱 I’m currently learning SQL.
+- 🌱 I’m currently learning Software_Development<C# + SQL>.
 - 📫 How to reach me via:
 - 📧 email: nasikordov@gmail.com
 - 📸 instagram: kordi.p_
