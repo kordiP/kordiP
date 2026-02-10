@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kordiP
-- 👀 I’m interested in C#
-- 🌱 I’m currently learning how to work with HTML, CSS, Bootstrap and Angular; Also learing how to work in a company
+- 👀 I’m interested in C# + C++ + Java + Python
+- 🌱 Working with Angular / HTML / CSS on C# BE.
 - 📫 How to reach me via:
 - 📧 email: nasikordov@gmail.com
 - 📸 instagram: kordi.p_
