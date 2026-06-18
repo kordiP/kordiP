@@ -17,10 +17,10 @@
 
 I’m **Atanas Kordov**, a **Software Engineering student at Sofia University** and a software developer with **3+ years of professional experience** building and maintaining production applications.
 
-I enjoy working on software that is reliable, maintainable, and useful in the real world. My background is strongest in frontend and application development, but I’m especially interested in **backend systems, cloud technologies, open-source software, and scalable architectures**.
+I enjoy brainstorming for new ideas, improving projects and making creative stuff. My background is strongest in frontend and application development, but I have been interested in **backend systems, cloud technologies, open-source software, and scalable architectures** lately.
 
 * Based in **Sofia, Bulgaria**
-* Fluent in **Bulgarian** and **English**
+* Fluent in **Bulgarian** and **English** (*kind of*)
 * Passionate about **clean code, debugging, performance, and learning new technologies**
 
 ---
@@ -81,13 +81,12 @@ I enjoy working on software that is reliable, maintainable, and useful in the re
 
 </div>
 
-I do my best at building software that is **reliable**, **maintainable**, and **useful in real-world environments**. My focus is on continuously improving both my technical skills and the quality of the systems I work on. Some areas I actively prioritize are:
+I do my best at building software that is **reliable**, **maintainable**, and **useful in real-world environments**. My focus is on improving both my technical skills and the quality of the systems I work on. When building projects my goals are:
 
 * Designing and maintaining production software
-* Building reusable components and maintainable application structures
+* Building reusable components and maintainable structures
 * Performance optimization and debugging
-* API integration and data-driven interfaces
-* Technical documentation and collaboration across teams
+* Easily understandable technical documentation and collaboration across teams
 
 ---
 
@@ -99,7 +98,7 @@ I do my best at building software that is **reliable**, **maintainable**, and **
 
 </div>
 
-I’m broadening my engineering perspective beyond frontend work and spending more time on topics like:
+I’m expanding my knowledge beyond frontend work and spending more time on topics like:
 
 * Backend development
 * Cloud computing
