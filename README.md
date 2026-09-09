@@ -21,7 +21,7 @@ I enjoy brainstorming for new ideas, improving projects and making creative stuf
 
 * Based in **Sofia, Bulgaria**
 * Fluent in **Bulgarian** and **English** (*kind of*)
-* Passionate about **clean code, debugging, performance, and learning new technologies**
+* Passionate about **clean code, performance, and just experimenting**
 
 ---
 
