@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I’m Atanas 
-*Software Engineering student · Problem solver *·* Singularity Software Frontend Developer*
+*Software Engineering student · Problem solver *·* SAP Gardener*
 
 </div>
 
